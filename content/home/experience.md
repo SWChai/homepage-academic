@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: CEO
-    company: GenCoin
+    company: Alibaba
     company_url: ''
-    location: Beijing
+    location: Fuzhou
     date_start: '2017-01-01'
     date_end: ''
     description: |2-
